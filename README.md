@@ -52,8 +52,3 @@ The `PlayerStateManager` module helps manage and track player states in your gam
 
 #### Events
 The module automatically handles player addition and removal, initializing their states and cleaning up as needed.
-
-### Final Notes
-Make sure to properly handle edge cases and test the module in different scenarios to ensure robustness. Provide users with examples and detailed instructions on how to integrate the module into their games for the best experience.
-
-This updated module offers a more general default configuration that can be easily customized for a wide variety of game scenarios.
